@@ -6,6 +6,7 @@
 
 * [Teste 1](#teste-1)
 * [Teste 2](#teste-2)
+* [Programas(Coleções)](#programas-colees)
 
 ## Exercícios
 
@@ -44,3 +45,15 @@ vai interferir na busca
 colocar espaços na hora de digitar a data também não interferir no resultado.
 
 - [x] Criar uma pilha utilizando o LinkedList
+
+### Programas Coleções
+
+- [x] **A**- Gere uma lista contendo 20 números aleatórios entre 1 e 100 e armazene utilizando um:
+- a)ArrayList.
+- b)LinkedList.
+- c)TreeSet.
+
+- [x] **B**-Crie um programa que leia 10 nomes e guarde em um LinkedList todos os nomes com números impares de letras e em um HashSet todos os nomes com números pares de letras. Ao final o programa deve exibir os nomes armazenados no LinkedList e o HashSet.
+- [x] **C**-Crie um programa que encontre os 100 primeiros números primos e guarde em um LinkedList. Ao final o programa deve exibir os números primos.
+- [x] **D**-Crie um programa que leia um número e guarde todos os divisores em um LinkedList. Ao final o programa deve exibir a lista de divisores.
+- [x] **E**-Utilizando um HashMap crie um programa que receba um CPF e retorne um objeto da Classe Pessoa.
