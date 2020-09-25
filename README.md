@@ -1,5 +1,7 @@
 # Exercícios Programação Orientada a Objetos
 
+*Orientação* -> Para encontrar os códigos vá na pasta src, depois só escolher a pasta do exercício.
+
 ## Sumário
 
 * [Teste 1](#teste-1)
