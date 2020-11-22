@@ -6,7 +6,7 @@
 
 * [Teste 1](#teste-1)
 * [Teste 2](#teste-2)
-* [Programas(Coleções)](#programas-colees)
+* [Programas(Coleções)](#programas-colecoes)
 
 ## Exercícios
 
@@ -46,7 +46,7 @@ colocar espaços na hora de digitar a data também não interferir no resultado.
 
 - [x] Criar uma pilha utilizando o LinkedList
 
-### Programas Coleções
+### Programas Colecoes
 
 - [x] **A**- Gere uma lista contendo 20 números aleatórios entre 1 e 100 e armazene utilizando um:
 - a)ArrayList.
