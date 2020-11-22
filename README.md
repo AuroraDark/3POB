@@ -4,19 +4,42 @@
 
 ## Sumário
 
+* [AV1](#av1)
+* [AV2](#av2)
 * [Teste 1](#teste-1)
 * [Teste 2](#teste-2)
 * [Programas(Coleções)](#programas-colecoes)
 
 ## Exercícios
 
+### AV1
+
+- [x] Criar um sistema desktop 
+
+- Utilizar duas coleções List ,Set ou Map
+
+- Explicar os conceitos básicos empregados no desenvolvimento do sistema(escolher pelo menos 3) 
+
+- Tema: Farmácia
+
+### AV2
+
+- [x] Projeto da AV1 e acresentar:
+
+- Documentação utilizando o javadoc
+- enum
+- varargs
+- for each
+- iterator
+- lambda
+
 ### Teste 1
 
 - [x] Implemente um cadastro de paciente de um hospital. 
 
--Crie um LinkedList<String> para guardar os nomes.
+- Crie um LinkedList<String> para guardar os nomes.
  
--Nesse hospital os pacientes com prioridade devem ser atendidos primeiro.
+- Nesse hospital os pacientes com prioridade devem ser atendidos primeiro.
  Passos: 
  
 -----1------
